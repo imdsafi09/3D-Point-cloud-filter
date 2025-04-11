@@ -3,7 +3,7 @@
   <name>ouster_cloud_filter</name>
   <version>0.0.1</version>
   <description>Ouster LiDAR point cloud filtering</description>
-  <maintainer email="user@example.com">User</maintainer>
+  <maintainer email="imadsafi08@gmail.com">User</maintainer>
   <license>MIT</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
