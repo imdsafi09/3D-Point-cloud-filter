@@ -23,4 +23,5 @@ git clone https://github.com/your_username/ouster_cloud_filter.git
 cd ~/ros2_ws
 colcon build --packages-select ouster_cloud_filter
 source install/setup.bash
-![Demo](demo.gif)
+
+![Media3](https://github.com/user-attachments/assets/cc31cd97-956f-418e-9883-9312688e7a6b)
