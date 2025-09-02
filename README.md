@@ -24,4 +24,3 @@ cd ~/ros2_ws
 colcon build --packages-select ouster_cloud_filter
 source install/setup.bash
 
-![Media3](https://github.com/user-attachments/assets/c8cb599b-6063-405e-9d14-0562f587969c)
